@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 
 # Set Streamlit page config
 st.set_page_config(
-    page_title="Kaspin Technical test",
+    page_title="User Activity Dashboard",
     layout="wide",
     initial_sidebar_state="collapsed",  # This sets the sidebar to be collapsed by default
 )
